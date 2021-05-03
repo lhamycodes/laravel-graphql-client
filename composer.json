@@ -1,5 +1,5 @@
 {
-    "name": "alexaandrov/laravel-graphql-client",
+    "name": "lhamycodes/laravel-graphql-client",
     "description": "GraphQL client for laravel/lumen",
     "type": "library",
     "keywords": [
