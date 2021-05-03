@@ -17,10 +17,16 @@
             "homepage": "https://www.linkedin.com/in/alexaandrov/"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/lhamycodes/graphql-client.git"
+        }
+    ],
     "require": {
         "php": ">= 7.1",
         "ext-json": "*",
-        "euautomation/graphql-client": "^0.2.0"
+        "lhamycodes/graphql-client": "master"
     },
     "autoload": {
         "psr-4": {
